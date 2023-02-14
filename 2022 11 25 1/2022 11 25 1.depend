@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1674569562 source:d:\41Ѧհ�\2022 11 25 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
+1669339950 source:d:\41Ѧհ�\2022 11 25 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
+1669339950 source:d:\41Ѧհ�\2022 11 25 1\i0.c
+	"data.h"
+
+1669789861 d:\41Ѧհ�\2022 11 25 1\data.h
+	<stdio.h>
+	<stdlib.h>
+
+1669365041 source:d:\41Ѧհ�\2022 11 25 1\rw.c
+	"data.h"
+
+1669789861 source:d:\41Ѧհ�\2022 11 25 1\sreach.c
+	"data.h"
+
+1674555369 source:d:\41Ѧհ�\2022 11 25 1\del.c
+	"data.h"
+
+1669795008 source:d:\41Ѧհ�\2022 11 25 1\num.c
+	"data.h"
+
